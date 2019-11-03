@@ -13,8 +13,10 @@
 
 ---
 
-##### [个人主页](https://xmmlj.github.io/个人主页)
+#### [个人主页](https://xmmlj.github.io/个人主页)
 
-##### [NHOI 2019竞赛游记](https://xmmlj.github.io/NHOI%202019游记)
+---
+
+#### [NHOI 2019竞赛游记](https://xmmlj.github.io/NHOI%202019游记)
 
 ---

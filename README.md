@@ -9,7 +9,7 @@
 
 ---
 
-# [郑重声明](https://xmmlj.github.io/jingzhizhuanzai)
+# [郑重声明](https://xmmlj.github.io/nozhuanzai)
 
 ---
 

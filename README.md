@@ -17,6 +17,10 @@
 
 ---
 
+### [题解](https://github.com/xmmlj/xmmlj.github.io/tree/master/题解)
+
+---
+
 ### [NHOI 2019竞赛游记](https://xmmlj.github.io/NHOI%202019游记)
 
 ---

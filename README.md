@@ -10,7 +10,7 @@
 
 ---
 
-### [个人主页](https://xmmlj.github.io/题解/所有题解索引)
+### [个人主页](https://xmmlj.github.io/个人主页)
 
 ---
 

@@ -14,7 +14,7 @@
 
 ---
 
-### [题解索引](https://github.com/xmmlj/xmmlj.github.io/tree/master/题解)
+### [题解索引](https://xmmlj.github.io/题解/所有题解索引)
 
 ---
 
